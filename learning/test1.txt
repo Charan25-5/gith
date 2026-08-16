@@ -2,6 +2,6 @@ created test1.txt file
 hello world
 branch2
 
-edited by branch2 in text1
+edited by branch2 in text1 in vscode
 
 
